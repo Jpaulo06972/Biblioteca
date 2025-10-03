@@ -1,5 +1,4 @@
-# 📌 Biblioteca – Sistema de Gerenciamento de uma Biblioteca
-
+# 📌 Biblioteca – Sistema de Gerenciamento
 ## 📚 Descrição do Projeto
 - O sistema é uma aplicação console desenvolvida em linguagem C, que     simula as operações básicas de gerenciamento de uma      biblioteca. O programa permite o cadastro, consulta, empréstimo, devolução e remoção de livros, além de controlar os usuários que realizam empréstimos.
 
