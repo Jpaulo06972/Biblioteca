@@ -52,9 +52,9 @@
 
 ## 👨‍💻 Desenvolvimento
 - Este é um projeto individual que aplica os conceitos estudados em sala de aula:
-- Variáveis
-- Condicionais
-- Loops
-- Vetores
-- Funções
-- Structs
+  - Variáveis
+  - Condicionais
+  - Loops
+  - Vetores
+  - Funções
+  - Structs
